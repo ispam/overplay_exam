@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Overplay</string>
+    <string name="increase_volume">Increase Volume</string>
+    <string name="decrease_volume">Decrease Volume</string>
+    <string name="move_forward">Move forward</string>
+    <string name="rewind">Rewind</string>
+    <string name="pause">Pausing video</string>
 </resources>
