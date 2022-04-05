@@ -1,6 +1,6 @@
 # Overplay Take Home Exam
 
-![1](https://github.com/ispam/overplay_exam/blob/master/overplay_video.mp4)
+![1](https://github.com/ispam/overplay_exam/blob/master/overplay_exam.gif)
 
 ## Requirements
 
